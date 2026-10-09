@@ -1,0 +1,1064 @@
+{
+  "magic": "my-ideals-template",
+  "version": 1,
+  "revision": 1,
+  "id": "rege-official-photos",
+  "name": "RE-GE 生写真（第1弾〜第6弾）",
+  "description": "公式販売ページの一覧画像をもとに作成した仮テンプレート。個別画像URLは未設定です。メンバー分類と画像は確認後に更新してください。",
+  "author": "User-created",
+  "imageResourceType": "baseUrl",
+  "imageBaseUrl": {
+    "root": "https://example.com/rege-photos",
+    "format": "jpg"
+  },
+  "layout": {
+    "aspectRatio": "7/10",
+    "columns": [
+      3,
+      6,
+      9
+    ]
+  },
+  "members": [
+    {
+      "id": "cocoro-morise",
+      "name": "森瀬こころ"
+    },
+    {
+      "id": "group-photo",
+      "name": "集合・複数人"
+    },
+    {
+      "id": "unclassified",
+      "name": "メンバー未確認"
+    }
+  ],
+  "collections": [
+    {
+      "id": "rege-01",
+      "name": "RE-GE 生写真 第1弾 No.001〜029",
+      "searchTerms": [
+        "RE-GE",
+        "第1弾",
+        "生写真"
+      ],
+      "items": [
+        {
+          "id": "rege-001",
+          "member": "unclassified",
+          "name": "No.001（メンバー未確認）"
+        },
+        {
+          "id": "rege-002",
+          "member": "unclassified",
+          "name": "No.002（メンバー未確認）"
+        },
+        {
+          "id": "rege-003",
+          "member": "unclassified",
+          "name": "No.003（メンバー未確認）"
+        },
+        {
+          "id": "rege-004",
+          "member": "unclassified",
+          "name": "No.004（メンバー未確認）"
+        },
+        {
+          "id": "rege-005",
+          "member": "unclassified",
+          "name": "No.005（メンバー未確認）"
+        },
+        {
+          "id": "rege-006",
+          "member": "unclassified",
+          "name": "No.006（メンバー未確認）"
+        },
+        {
+          "id": "rege-007",
+          "member": "unclassified",
+          "name": "No.007（メンバー未確認）"
+        },
+        {
+          "id": "rege-008",
+          "member": "unclassified",
+          "name": "No.008（メンバー未確認）"
+        },
+        {
+          "id": "rege-009",
+          "member": "unclassified",
+          "name": "No.009（メンバー未確認）"
+        },
+        {
+          "id": "rege-010",
+          "member": "unclassified",
+          "name": "No.010（メンバー未確認）"
+        },
+        {
+          "id": "rege-011",
+          "member": "unclassified",
+          "name": "No.011（メンバー未確認）"
+        },
+        {
+          "id": "rege-012",
+          "member": "unclassified",
+          "name": "No.012（メンバー未確認）"
+        },
+        {
+          "id": "rege-013",
+          "member": "unclassified",
+          "name": "No.013（メンバー未確認）"
+        },
+        {
+          "id": "rege-014",
+          "member": "unclassified",
+          "name": "No.014（メンバー未確認）"
+        },
+        {
+          "id": "rege-015",
+          "member": "unclassified",
+          "name": "No.015（メンバー未確認）"
+        },
+        {
+          "id": "rege-016",
+          "member": "unclassified",
+          "name": "No.016（メンバー未確認）"
+        },
+        {
+          "id": "rege-017",
+          "member": "unclassified",
+          "name": "No.017（メンバー未確認）"
+        },
+        {
+          "id": "rege-018",
+          "member": "unclassified",
+          "name": "No.018（メンバー未確認）"
+        },
+        {
+          "id": "rege-019",
+          "member": "unclassified",
+          "name": "No.019（メンバー未確認）"
+        },
+        {
+          "id": "rege-020",
+          "member": "unclassified",
+          "name": "No.020（メンバー未確認）"
+        },
+        {
+          "id": "rege-021",
+          "member": "unclassified",
+          "name": "No.021（メンバー未確認）"
+        },
+        {
+          "id": "rege-022",
+          "member": "unclassified",
+          "name": "No.022（メンバー未確認）"
+        },
+        {
+          "id": "rege-023",
+          "member": "unclassified",
+          "name": "No.023（メンバー未確認）"
+        },
+        {
+          "id": "rege-024",
+          "member": "unclassified",
+          "name": "No.024（メンバー未確認）"
+        },
+        {
+          "id": "rege-025",
+          "member": "unclassified",
+          "name": "No.025（メンバー未確認）"
+        },
+        {
+          "id": "rege-026",
+          "member": "unclassified",
+          "name": "No.026（メンバー未確認）"
+        },
+        {
+          "id": "rege-027",
+          "member": "unclassified",
+          "name": "No.027（メンバー未確認）"
+        },
+        {
+          "id": "rege-028",
+          "member": "unclassified",
+          "name": "No.028（メンバー未確認）"
+        },
+        {
+          "id": "rege-029",
+          "member": "unclassified",
+          "name": "No.029（メンバー未確認）"
+        }
+      ]
+    },
+    {
+      "id": "rege-02",
+      "name": "RE-GE 生写真 第2弾 No.030〜058",
+      "searchTerms": [
+        "RE-GE",
+        "第2弾",
+        "生写真"
+      ],
+      "items": [
+        {
+          "id": "rege-030",
+          "member": "unclassified",
+          "name": "No.030（メンバー未確認）"
+        },
+        {
+          "id": "rege-031",
+          "member": "unclassified",
+          "name": "No.031（メンバー未確認）"
+        },
+        {
+          "id": "rege-032",
+          "member": "unclassified",
+          "name": "No.032（メンバー未確認）"
+        },
+        {
+          "id": "rege-033",
+          "member": "unclassified",
+          "name": "No.033（メンバー未確認）"
+        },
+        {
+          "id": "rege-034",
+          "member": "unclassified",
+          "name": "No.034（メンバー未確認）"
+        },
+        {
+          "id": "rege-035",
+          "member": "unclassified",
+          "name": "No.035（メンバー未確認）"
+        },
+        {
+          "id": "rege-036",
+          "member": "unclassified",
+          "name": "No.036（メンバー未確認）"
+        },
+        {
+          "id": "rege-037",
+          "member": "unclassified",
+          "name": "No.037（メンバー未確認）"
+        },
+        {
+          "id": "rege-038",
+          "member": "unclassified",
+          "name": "No.038（メンバー未確認）"
+        },
+        {
+          "id": "rege-039",
+          "member": "unclassified",
+          "name": "No.039（メンバー未確認）"
+        },
+        {
+          "id": "rege-040",
+          "member": "unclassified",
+          "name": "No.040（メンバー未確認）"
+        },
+        {
+          "id": "rege-041",
+          "member": "unclassified",
+          "name": "No.041（メンバー未確認）"
+        },
+        {
+          "id": "rege-042",
+          "member": "unclassified",
+          "name": "No.042（メンバー未確認）"
+        },
+        {
+          "id": "rege-043",
+          "member": "unclassified",
+          "name": "No.043（メンバー未確認）"
+        },
+        {
+          "id": "rege-044",
+          "member": "unclassified",
+          "name": "No.044（メンバー未確認）"
+        },
+        {
+          "id": "rege-045",
+          "member": "unclassified",
+          "name": "No.045（メンバー未確認）"
+        },
+        {
+          "id": "rege-046",
+          "member": "unclassified",
+          "name": "No.046（メンバー未確認）"
+        },
+        {
+          "id": "rege-047",
+          "member": "unclassified",
+          "name": "No.047（メンバー未確認）"
+        },
+        {
+          "id": "rege-048",
+          "member": "unclassified",
+          "name": "No.048（メンバー未確認）"
+        },
+        {
+          "id": "rege-049",
+          "member": "unclassified",
+          "name": "No.049（メンバー未確認）"
+        },
+        {
+          "id": "rege-050",
+          "member": "unclassified",
+          "name": "No.050（メンバー未確認）"
+        },
+        {
+          "id": "rege-051",
+          "member": "unclassified",
+          "name": "No.051（メンバー未確認）"
+        },
+        {
+          "id": "rege-052",
+          "member": "unclassified",
+          "name": "No.052（メンバー未確認）"
+        },
+        {
+          "id": "rege-053",
+          "member": "unclassified",
+          "name": "No.053（メンバー未確認）"
+        },
+        {
+          "id": "rege-054",
+          "member": "unclassified",
+          "name": "No.054（メンバー未確認）"
+        },
+        {
+          "id": "rege-055",
+          "member": "unclassified",
+          "name": "No.055（メンバー未確認）"
+        },
+        {
+          "id": "rege-056",
+          "member": "unclassified",
+          "name": "No.056（メンバー未確認）"
+        },
+        {
+          "id": "rege-057",
+          "member": "unclassified",
+          "name": "No.057（メンバー未確認）"
+        },
+        {
+          "id": "rege-058",
+          "member": "unclassified",
+          "name": "No.058（メンバー未確認）"
+        }
+      ]
+    },
+    {
+      "id": "rege-03",
+      "name": "RE-GE 生写真 第3弾 No.059〜095",
+      "searchTerms": [
+        "RE-GE",
+        "第3弾",
+        "生写真"
+      ],
+      "items": [
+        {
+          "id": "rege-059",
+          "member": "unclassified",
+          "name": "No.059（メンバー未確認）"
+        },
+        {
+          "id": "rege-060",
+          "member": "unclassified",
+          "name": "No.060（メンバー未確認）"
+        },
+        {
+          "id": "rege-061",
+          "member": "unclassified",
+          "name": "No.061（メンバー未確認）"
+        },
+        {
+          "id": "rege-062",
+          "member": "unclassified",
+          "name": "No.062（メンバー未確認）"
+        },
+        {
+          "id": "rege-063",
+          "member": "unclassified",
+          "name": "No.063（メンバー未確認）"
+        },
+        {
+          "id": "rege-064",
+          "member": "unclassified",
+          "name": "No.064（メンバー未確認）"
+        },
+        {
+          "id": "rege-065",
+          "member": "unclassified",
+          "name": "No.065（メンバー未確認）"
+        },
+        {
+          "id": "rege-066",
+          "member": "unclassified",
+          "name": "No.066（メンバー未確認）"
+        },
+        {
+          "id": "rege-067",
+          "member": "unclassified",
+          "name": "No.067（メンバー未確認）"
+        },
+        {
+          "id": "rege-068",
+          "member": "unclassified",
+          "name": "No.068（メンバー未確認）"
+        },
+        {
+          "id": "rege-069",
+          "member": "unclassified",
+          "name": "No.069（メンバー未確認）"
+        },
+        {
+          "id": "rege-070",
+          "member": "unclassified",
+          "name": "No.070（メンバー未確認）"
+        },
+        {
+          "id": "rege-071",
+          "member": "unclassified",
+          "name": "No.071（メンバー未確認）"
+        },
+        {
+          "id": "rege-072",
+          "member": "unclassified",
+          "name": "No.072（メンバー未確認）"
+        },
+        {
+          "id": "rege-073",
+          "member": "unclassified",
+          "name": "No.073（メンバー未確認）"
+        },
+        {
+          "id": "rege-074",
+          "member": "unclassified",
+          "name": "No.074（メンバー未確認）"
+        },
+        {
+          "id": "rege-075",
+          "member": "unclassified",
+          "name": "No.075（メンバー未確認）"
+        },
+        {
+          "id": "rege-076",
+          "member": "unclassified",
+          "name": "No.076（メンバー未確認）"
+        },
+        {
+          "id": "rege-077",
+          "member": "unclassified",
+          "name": "No.077（メンバー未確認）"
+        },
+        {
+          "id": "rege-078",
+          "member": "unclassified",
+          "name": "No.078（メンバー未確認）"
+        },
+        {
+          "id": "rege-079",
+          "member": "unclassified",
+          "name": "No.079（メンバー未確認）"
+        },
+        {
+          "id": "rege-080",
+          "member": "unclassified",
+          "name": "No.080（メンバー未確認）"
+        },
+        {
+          "id": "rege-081",
+          "member": "unclassified",
+          "name": "No.081（メンバー未確認）"
+        },
+        {
+          "id": "rege-082",
+          "member": "unclassified",
+          "name": "No.082（メンバー未確認）"
+        },
+        {
+          "id": "rege-083",
+          "member": "unclassified",
+          "name": "No.083（メンバー未確認）"
+        },
+        {
+          "id": "rege-084",
+          "member": "unclassified",
+          "name": "No.084（メンバー未確認）"
+        },
+        {
+          "id": "rege-085",
+          "member": "unclassified",
+          "name": "No.085（メンバー未確認）"
+        },
+        {
+          "id": "rege-086",
+          "member": "unclassified",
+          "name": "No.086（メンバー未確認）"
+        },
+        {
+          "id": "rege-087",
+          "member": "unclassified",
+          "name": "No.087（メンバー未確認）"
+        },
+        {
+          "id": "rege-088",
+          "member": "unclassified",
+          "name": "No.088（メンバー未確認）"
+        },
+        {
+          "id": "rege-089",
+          "member": "unclassified",
+          "name": "No.089（メンバー未確認）"
+        },
+        {
+          "id": "rege-090",
+          "member": "unclassified",
+          "name": "No.090（メンバー未確認）"
+        },
+        {
+          "id": "rege-091",
+          "member": "unclassified",
+          "name": "No.091（メンバー未確認）"
+        },
+        {
+          "id": "rege-092",
+          "member": "unclassified",
+          "name": "No.092（メンバー未確認）"
+        },
+        {
+          "id": "rege-093",
+          "member": "unclassified",
+          "name": "No.093（メンバー未確認）"
+        },
+        {
+          "id": "rege-094",
+          "member": "unclassified",
+          "name": "No.094（メンバー未確認）"
+        },
+        {
+          "id": "rege-095",
+          "member": "unclassified",
+          "name": "No.095（メンバー未確認）"
+        }
+      ]
+    },
+    {
+      "id": "rege-04",
+      "name": "RE-GE 生写真 第4弾 No.096〜130",
+      "searchTerms": [
+        "RE-GE",
+        "第4弾",
+        "生写真"
+      ],
+      "items": [
+        {
+          "id": "rege-096",
+          "member": "unclassified",
+          "name": "No.096（メンバー未確認）"
+        },
+        {
+          "id": "rege-097",
+          "member": "unclassified",
+          "name": "No.097（メンバー未確認）"
+        },
+        {
+          "id": "rege-098",
+          "member": "unclassified",
+          "name": "No.098（メンバー未確認）"
+        },
+        {
+          "id": "rege-099",
+          "member": "unclassified",
+          "name": "No.099（メンバー未確認）"
+        },
+        {
+          "id": "rege-100",
+          "member": "unclassified",
+          "name": "No.100（メンバー未確認）"
+        },
+        {
+          "id": "rege-101",
+          "member": "unclassified",
+          "name": "No.101（メンバー未確認）"
+        },
+        {
+          "id": "rege-102",
+          "member": "unclassified",
+          "name": "No.102（メンバー未確認）"
+        },
+        {
+          "id": "rege-103",
+          "member": "unclassified",
+          "name": "No.103（メンバー未確認）"
+        },
+        {
+          "id": "rege-104",
+          "member": "unclassified",
+          "name": "No.104（メンバー未確認）"
+        },
+        {
+          "id": "rege-105",
+          "member": "unclassified",
+          "name": "No.105（メンバー未確認）"
+        },
+        {
+          "id": "rege-106",
+          "member": "unclassified",
+          "name": "No.106（メンバー未確認）"
+        },
+        {
+          "id": "rege-107",
+          "member": "unclassified",
+          "name": "No.107（メンバー未確認）"
+        },
+        {
+          "id": "rege-108",
+          "member": "unclassified",
+          "name": "No.108（メンバー未確認）"
+        },
+        {
+          "id": "rege-109",
+          "member": "unclassified",
+          "name": "No.109（メンバー未確認）"
+        },
+        {
+          "id": "rege-110",
+          "member": "unclassified",
+          "name": "No.110（メンバー未確認）"
+        },
+        {
+          "id": "rege-111",
+          "member": "unclassified",
+          "name": "No.111（メンバー未確認）"
+        },
+        {
+          "id": "rege-112",
+          "member": "unclassified",
+          "name": "No.112（メンバー未確認）"
+        },
+        {
+          "id": "rege-113",
+          "member": "unclassified",
+          "name": "No.113（メンバー未確認）"
+        },
+        {
+          "id": "rege-114",
+          "member": "unclassified",
+          "name": "No.114（メンバー未確認）"
+        },
+        {
+          "id": "rege-115",
+          "member": "unclassified",
+          "name": "No.115（メンバー未確認）"
+        },
+        {
+          "id": "rege-116",
+          "member": "unclassified",
+          "name": "No.116（メンバー未確認）"
+        },
+        {
+          "id": "rege-117",
+          "member": "unclassified",
+          "name": "No.117（メンバー未確認）"
+        },
+        {
+          "id": "rege-118",
+          "member": "unclassified",
+          "name": "No.118（メンバー未確認）"
+        },
+        {
+          "id": "rege-119",
+          "member": "unclassified",
+          "name": "No.119（メンバー未確認）"
+        },
+        {
+          "id": "rege-120",
+          "member": "unclassified",
+          "name": "No.120（メンバー未確認）"
+        },
+        {
+          "id": "rege-121",
+          "member": "unclassified",
+          "name": "No.121（メンバー未確認）"
+        },
+        {
+          "id": "rege-122",
+          "member": "unclassified",
+          "name": "No.122（メンバー未確認）"
+        },
+        {
+          "id": "rege-123",
+          "member": "unclassified",
+          "name": "No.123（メンバー未確認）"
+        },
+        {
+          "id": "rege-124",
+          "member": "unclassified",
+          "name": "No.124（メンバー未確認）"
+        },
+        {
+          "id": "rege-125",
+          "member": "unclassified",
+          "name": "No.125（メンバー未確認）"
+        },
+        {
+          "id": "rege-126",
+          "member": "unclassified",
+          "name": "No.126（メンバー未確認）"
+        },
+        {
+          "id": "rege-127",
+          "member": "unclassified",
+          "name": "No.127（メンバー未確認）"
+        },
+        {
+          "id": "rege-128",
+          "member": "unclassified",
+          "name": "No.128（メンバー未確認）"
+        },
+        {
+          "id": "rege-129",
+          "member": "unclassified",
+          "name": "No.129（メンバー未確認）"
+        },
+        {
+          "id": "rege-130",
+          "member": "unclassified",
+          "name": "No.130（メンバー未確認）"
+        }
+      ]
+    },
+    {
+      "id": "rege-05",
+      "name": "RE-GE 生写真 第5弾 No.131〜159",
+      "searchTerms": [
+        "RE-GE",
+        "第5弾",
+        "生写真"
+      ],
+      "items": [
+        {
+          "id": "rege-131",
+          "member": "unclassified",
+          "name": "No.131（メンバー未確認）"
+        },
+        {
+          "id": "rege-132",
+          "member": "unclassified",
+          "name": "No.132（メンバー未確認）"
+        },
+        {
+          "id": "rege-133",
+          "member": "unclassified",
+          "name": "No.133（メンバー未確認）"
+        },
+        {
+          "id": "rege-134",
+          "member": "unclassified",
+          "name": "No.134（メンバー未確認）"
+        },
+        {
+          "id": "rege-135",
+          "member": "unclassified",
+          "name": "No.135（メンバー未確認）"
+        },
+        {
+          "id": "rege-136",
+          "member": "unclassified",
+          "name": "No.136（メンバー未確認）"
+        },
+        {
+          "id": "rege-137",
+          "member": "unclassified",
+          "name": "No.137（メンバー未確認）"
+        },
+        {
+          "id": "rege-138",
+          "member": "unclassified",
+          "name": "No.138（メンバー未確認）"
+        },
+        {
+          "id": "rege-139",
+          "member": "unclassified",
+          "name": "No.139（メンバー未確認）"
+        },
+        {
+          "id": "rege-140",
+          "member": "unclassified",
+          "name": "No.140（メンバー未確認）"
+        },
+        {
+          "id": "rege-141",
+          "member": "unclassified",
+          "name": "No.141（メンバー未確認）"
+        },
+        {
+          "id": "rege-142",
+          "member": "unclassified",
+          "name": "No.142（メンバー未確認）"
+        },
+        {
+          "id": "rege-143",
+          "member": "unclassified",
+          "name": "No.143（メンバー未確認）"
+        },
+        {
+          "id": "rege-144",
+          "member": "unclassified",
+          "name": "No.144（メンバー未確認）"
+        },
+        {
+          "id": "rege-145",
+          "member": "unclassified",
+          "name": "No.145（メンバー未確認）"
+        },
+        {
+          "id": "rege-146",
+          "member": "unclassified",
+          "name": "No.146（メンバー未確認）"
+        },
+        {
+          "id": "rege-147",
+          "member": "unclassified",
+          "name": "No.147（メンバー未確認）"
+        },
+        {
+          "id": "rege-148",
+          "member": "unclassified",
+          "name": "No.148（メンバー未確認）"
+        },
+        {
+          "id": "rege-149",
+          "member": "unclassified",
+          "name": "No.149（メンバー未確認）"
+        },
+        {
+          "id": "rege-150",
+          "member": "unclassified",
+          "name": "No.150（メンバー未確認）"
+        },
+        {
+          "id": "rege-151",
+          "member": "unclassified",
+          "name": "No.151（メンバー未確認）"
+        },
+        {
+          "id": "rege-152",
+          "member": "unclassified",
+          "name": "No.152（メンバー未確認）"
+        },
+        {
+          "id": "rege-153",
+          "member": "unclassified",
+          "name": "No.153（メンバー未確認）"
+        },
+        {
+          "id": "rege-154",
+          "member": "unclassified",
+          "name": "No.154（メンバー未確認）"
+        },
+        {
+          "id": "rege-155",
+          "member": "unclassified",
+          "name": "No.155（メンバー未確認）"
+        },
+        {
+          "id": "rege-156",
+          "member": "unclassified",
+          "name": "No.156（メンバー未確認）"
+        },
+        {
+          "id": "rege-157",
+          "member": "unclassified",
+          "name": "No.157（メンバー未確認）"
+        },
+        {
+          "id": "rege-158",
+          "member": "unclassified",
+          "name": "No.158（メンバー未確認）"
+        },
+        {
+          "id": "rege-159",
+          "member": "unclassified",
+          "name": "No.159（メンバー未確認）"
+        }
+      ]
+    },
+    {
+      "id": "rege-06",
+      "name": "RE-GE 生写真 第6弾 No.160〜192",
+      "searchTerms": [
+        "RE-GE",
+        "第6弾",
+        "生写真"
+      ],
+      "items": [
+        {
+          "id": "rege-160",
+          "member": "unclassified",
+          "name": "No.160（メンバー未確認）"
+        },
+        {
+          "id": "rege-161",
+          "member": "unclassified",
+          "name": "No.161（メンバー未確認）"
+        },
+        {
+          "id": "rege-162",
+          "member": "unclassified",
+          "name": "No.162（メンバー未確認）"
+        },
+        {
+          "id": "rege-163",
+          "member": "unclassified",
+          "name": "No.163（メンバー未確認）"
+        },
+        {
+          "id": "rege-164",
+          "member": "unclassified",
+          "name": "No.164（メンバー未確認）"
+        },
+        {
+          "id": "rege-165",
+          "member": "unclassified",
+          "name": "No.165（メンバー未確認）"
+        },
+        {
+          "id": "rege-166",
+          "member": "unclassified",
+          "name": "No.166（メンバー未確認）"
+        },
+        {
+          "id": "rege-167",
+          "member": "unclassified",
+          "name": "No.167（メンバー未確認）"
+        },
+        {
+          "id": "rege-168",
+          "member": "unclassified",
+          "name": "No.168（メンバー未確認）"
+        },
+        {
+          "id": "rege-169",
+          "member": "unclassified",
+          "name": "No.169（メンバー未確認）"
+        },
+        {
+          "id": "rege-170",
+          "member": "unclassified",
+          "name": "No.170（メンバー未確認）"
+        },
+        {
+          "id": "rege-171",
+          "member": "unclassified",
+          "name": "No.171（メンバー未確認）"
+        },
+        {
+          "id": "rege-172",
+          "member": "unclassified",
+          "name": "No.172（メンバー未確認）"
+        },
+        {
+          "id": "rege-173",
+          "member": "unclassified",
+          "name": "No.173（メンバー未確認）"
+        },
+        {
+          "id": "rege-174",
+          "member": "unclassified",
+          "name": "No.174（メンバー未確認）"
+        },
+        {
+          "id": "rege-175",
+          "member": "unclassified",
+          "name": "No.175（メンバー未確認）"
+        },
+        {
+          "id": "rege-176",
+          "member": "unclassified",
+          "name": "No.176（メンバー未確認）"
+        },
+        {
+          "id": "rege-177",
+          "member": "unclassified",
+          "name": "No.177（メンバー未確認）"
+        },
+        {
+          "id": "rege-178",
+          "member": "unclassified",
+          "name": "No.178（メンバー未確認）"
+        },
+        {
+          "id": "rege-179",
+          "member": "unclassified",
+          "name": "No.179（メンバー未確認）"
+        },
+        {
+          "id": "rege-180",
+          "member": "unclassified",
+          "name": "No.180（メンバー未確認）"
+        },
+        {
+          "id": "rege-181",
+          "member": "unclassified",
+          "name": "No.181（メンバー未確認）"
+        },
+        {
+          "id": "rege-182",
+          "member": "unclassified",
+          "name": "No.182（メンバー未確認）"
+        },
+        {
+          "id": "rege-183",
+          "member": "unclassified",
+          "name": "No.183（メンバー未確認）"
+        },
+        {
+          "id": "rege-184",
+          "member": "unclassified",
+          "name": "No.184（メンバー未確認）"
+        },
+        {
+          "id": "rege-185",
+          "member": "unclassified",
+          "name": "No.185（メンバー未確認）"
+        },
+        {
+          "id": "rege-186",
+          "member": "unclassified",
+          "name": "No.186（メンバー未確認）"
+        },
+        {
+          "id": "rege-187",
+          "member": "unclassified",
+          "name": "No.187（メンバー未確認）"
+        },
+        {
+          "id": "rege-188",
+          "member": "unclassified",
+          "name": "No.188（メンバー未確認）"
+        },
+        {
+          "id": "rege-189",
+          "member": "unclassified",
+          "name": "No.189（メンバー未確認）"
+        },
+        {
+          "id": "rege-190",
+          "member": "unclassified",
+          "name": "No.190（メンバー未確認）"
+        },
+        {
+          "id": "rege-191",
+          "member": "unclassified",
+          "name": "No.191（メンバー未確認）"
+        },
+        {
+          "id": "rege-192",
+          "member": "unclassified",
+          "name": "No.192（メンバー未確認）"
+        }
+      ]
+    }
+  ]
+}
